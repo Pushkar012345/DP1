@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Discover quality cuisine. Fresh ingredients, expertly prepared dishes. Taste the difference."
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Experience culinary excellence. Unmatched flavors, unforgettable meals. Indulge in the extraordinary." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Swift delivery guaranteed. Order now for quick, hassle-free service." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./alu.png",
+                "title": "Alu Vadi",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./fish.png",
+                "title": "Fish Curry",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./kheer.png",
+                "title": "Kheer",
+                "category": "Sweets"
+            },
+            {
+                "id": 4,
+                "image": "./nar.png",
+                "title": "Narlachi Vadi",
+                "category": "Sweets"
+            },
+            {
+                "id": 5,
+                "image": "./modak.png",
+                "title": "Modak",
+                "category": "Breakfast"
+            },
+            {
+                "id": 6,
+                "image": "./ko.png",
+                "title": "Kothimbir Vadi",
+                "category": "Breakfast"
+            },
+            {
+                "id": 7,
+                "image": "./k.png",
+                "title": "Kaju Bhaji",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./chicken.png",
+                "title": "Chiken Vade",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./v.png",
+                "name": "Vikas Khanna",
+                "designation": "Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./h.png",
+                "name": "Hari Nayak",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./he.png",
+                "name": "Harpal Sokhi",
+                "designation": "fish Chef"
+            },
+            {
+                "id": 4,
+                "image": "./r.png",
+                "name": "Ranveer Brar",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "10",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "30",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "05",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200+",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
